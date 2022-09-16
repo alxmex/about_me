@@ -1,5 +1,5 @@
 <template>
-	<p> HEj </p>
+	<p> Continue </p>
 </template>
 
 <script>
