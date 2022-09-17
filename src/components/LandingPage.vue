@@ -1,13 +1,18 @@
 <template>
-	<p> Continue </p>
+	<div>
+		<Navbar msg="Hej"/>
+	</div>
 </template>
 
 <script>
+import Navbar from './Navbar.vue'
+
 export default {
   name: 'LandingPage',
-  props: {
-    msg: String
+  components: {
+	Navbar	
   }
+
 }
 </script>
 
