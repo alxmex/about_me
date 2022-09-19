@@ -2,7 +2,7 @@
 	<nav>
     <div class="nav-wrapper">
 		<ul>
-			<a class="waves-effect waves-light btn"> {{ msg }}</a>
+			<button> hehe </button>
 		</ul>
     </div>
   </nav>
