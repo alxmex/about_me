@@ -1,15 +1,5 @@
 <template>
   <v-app>
-    <v-app-bar
-      app
-      color="Black"
-      dark>
-
-    <v-btn color="grey darken-3">
-      Primary
-    </v-btn>
-    </v-app-bar>
-
     <v-main>
       <router-view/>
     </v-main>
