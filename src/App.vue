@@ -17,3 +17,11 @@ export default Vue.extend({
   }),
 });
 </script>
+
+<style lang="scss" scoped>
+.v-main{
+background-color: rgb(67,63,63)
+
+}
+
+</style>

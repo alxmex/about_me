@@ -1,11 +1,11 @@
 <template>
     <div class="nav-wrapper">
-    <v-app-bar color="Grey" class="rounded-xl" dark>
+    <v-app-bar color="rgb(67,63,63)" dark>
 		<span id="tho">
-			<v-btn color="grey darken-3"> Primary </v-btn>
-			<v-btn color="grey darken-3"> Primary </v-btn>
-			<v-btn color="grey darken-3"> Primary </v-btn>
-			<v-btn color="grey darken-3"> Primary </v-btn>
+			<v-btn color="rgb(67,63,63)">A</v-btn>
+			<v-btn color="rgb(67,63,63)">B</v-btn>
+			<v-btn color="rgb(67,63,63)">C</v-btn>
+			<v-btn color="rgb(67,63,63)">D</v-btn>
 		</span>
     </v-app-bar>
 
@@ -26,12 +26,12 @@ export default {
 <style lang="scss" scoped>
 
 .nav-wrapper{
-	margin-top: .5em;
+	margin-top: 10em;
+	background-color: rgb(67,63,63)
 }
 
 .v-app-bar{
 	display: flex;
-	margin: 1em;
 	justify-content: center;
 
 }
@@ -40,6 +40,10 @@ export default {
 	width: 49em;
 	display: flex;
 	justify-content: space-between;
+}
+
+.v-btn{
+background-color: rgb(67,63,63);
 }
 
 </style>
