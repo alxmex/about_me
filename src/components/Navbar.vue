@@ -1,5 +1,4 @@
 <template>
-    <div class="nav-wrapper">
     <v-app-bar flat color="rgb(67,63,63)" dark>
 		<span id="tho">
 			<v-btn color="rgb(67,63,63)">Home</v-btn>
@@ -10,7 +9,6 @@
 		</span>
     </v-app-bar>
 
-    </div>
 </template>
 
 <script>
@@ -26,16 +24,8 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss" scoped>
 
-.nav-wrapper{
-	border: 1px solid red;
-	margin-right: 5em;
-	width: 75em;
-	margin-top: 4em;
-	background-color: rgb(67,63,63)
-}
 
 .v-app-bar{
-	border: 1px solid green;
 	display: flex;
 	margin-left: 10em;
 	width: auto;
@@ -43,9 +33,10 @@ export default {
 
 }
 #tho{
-	width: 60em;
+	margin-top: 4em;
+	margin-right: 5em;
+	width: auto;
 	display: flex;
-	justify-content: right;
 }
 
 .v-btn{
