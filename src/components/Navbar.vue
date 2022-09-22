@@ -1,12 +1,12 @@
 <template>
     <v-app-bar flat color="rgb(67,63,63)" dark>
-		<span id="tho">
+		<div id="tho">
 			<v-btn color="rgb(67,63,63)">Home</v-btn>
 			<v-btn color="rgb(67,63,63)">Projects</v-btn>
 			<v-btn color="rgb(67,63,63)">Blog</v-btn>
 			<v-btn color="rgb(67,63,63)">About</v-btn>
 			<v-btn color="rgb(67,63,63)">Contact</v-btn>
-		</span>
+		</div>
     </v-app-bar>
 
 </template>
