@@ -1,10 +1,10 @@
 <template>
 		<div id="tho">
-			<a href="/"><v-btn color="rgb(67,63,63)">Home</v-btn></a>
-			<a href="/"><v-btn color="rgb(67,63,63)">Projects</v-btn></a>
-			<a href="/"><v-btn color="rgb(67,63,63)">Blog</v-btn></a>
-			<a href="/https:/youtube.com"><v-btn color="rgb(67,63,63)">About</v-btn></a>
-			<a href="/"><v-btn color="rgb(67,63,63)">Contact</v-btn></a>
+			<router-link to="/"><v-btn color="rgb(67,63,63)">Home</v-btn></router-link>
+			<router-link to="/"><v-btn color="rgb(67,63,63)">Projects</v-btn></router-link>
+			<router-link to="/about"><v-btn color="rgb(67,63,63)">Blog</v-btn></router-link>
+			<router-link to="/"><v-btn color="rgb(67,63,63)">About</v-btn></router-link>
+			<router-link to="/"><v-btn color="rgb(67,63,63)">Contact</v-btn></router-link>
 		</div>
 
 </template>
