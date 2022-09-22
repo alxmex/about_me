@@ -19,7 +19,7 @@ export default Vue.extend({
 <style lang="scss" scoped>
 	
 .aboutme{
-	border: 1px solid red;
+	#border: 1px solid red;
 	line-height: 2;
 	width: 45%;
 	margin-left: 25%;
