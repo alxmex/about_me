@@ -3,7 +3,7 @@
 		<em class="header1"><h2> About me </h2></em>
 		<em> <p> Hey I am Alex! A Swedish based developer who enjoys creating fast, secure and robust software.</p></em>
 		
-		<em> <p> I have always believed in open-source, and community driver software development. Thus, all of my software is open-source and forever will be. Both for personal development, and to contribute to creating great software and making everyday easier for people using it.</p></em>
+		<em> <p> I have always believed in open-source, and community driver software development. I want to contribute in creating great software and making everyday easier, for everyone. I believe it's important to allow other developers to inspect your code, modify, and together improve it to the better.</p></em>
 	</div>
 </template>
 
@@ -22,6 +22,7 @@ export default Vue.extend({
 	#border: 1px solid red;
 	line-height: 2;
 	width: 45%;
+	margin-top: 1em;
 	margin-left: 25%;
 	font-family: 'Fira Sans', sans-serif;
 }
@@ -32,6 +33,7 @@ export default Vue.extend({
 
 p{
 color: #a6a28c;
+font-size:17px;
 }
 
 
