@@ -4,8 +4,8 @@
 			<em><h2>Hey, I'm Alex</h2></em>
 		</div>
 		<div class="one"><em> I am a developer</em></div>
-		<div class="one"><em> I drink coffee </em></div>
-		<div class="one"><em> And build software </em></div>
+		<div class="one"><em> I like computers... </em></div>
+		<div class="one"><em> and coffee!</em></div>
 	</span>
 </template>
 
