@@ -29,11 +29,9 @@ export default Vue.extend({
 </script>
 
 <style lang="scss" scoped>
-@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro");
-
 .v-main{
-background-color: rgb(67,63,63)
-
+background-color: #141516;
 }
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans");
 
 </style>

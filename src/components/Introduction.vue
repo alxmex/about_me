@@ -27,23 +27,25 @@ export default {
 	margin: auto;
 	height: 20em;
 	width: 30em;
-	top: 10em;
+	top: 6em;
 	flex-direction: column;
 }
 .title{
 	display: flex;
 	justify-content: center;
 	padding: 1em;
+	color: #FF6F33;
 }
 .one{
 	line-height: 2;
 	text-align: center;
 	justify-content: center;
-	font-family: 'Bungee Spice', cursive;
-	font-size: 2em;
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 3em;
+	color: #a6a28c;
 
 }
 
 
-@import url("https://fonts.googleapis.com/css2?family=Bungee+Spice");
+
 </style>

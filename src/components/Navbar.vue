@@ -1,5 +1,4 @@
 <template>
-    <v-app-bar flat color="rgb(67,63,63)" dark>
 		<div id="tho">
 			<v-btn color="rgb(67,63,63)">Home</v-btn>
 			<v-btn color="rgb(67,63,63)">Projects</v-btn>
@@ -7,7 +6,6 @@
 			<v-btn color="rgb(67,63,63)">About</v-btn>
 			<v-btn color="rgb(67,63,63)">Contact</v-btn>
 		</div>
-    </v-app-bar>
 
 </template>
 
@@ -27,20 +25,20 @@ export default {
 
 .v-app-bar{
 	display: flex;
-	margin-left: 10em;
 	width: auto;
-	justify-content: center;
 
 }
 #tho{
+	display: flex;
+	margin-left: 10em;
 	margin-top: 4em;
 	margin-right: 5em;
 	width: auto;
-	display: flex;
+	justify-content: center;
 }
 
 .v-btn{
-	background-color: rgb(67,63,63);
+	color: #a6a28c;
 	margin:1em;
 }
 
