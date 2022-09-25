@@ -54,5 +54,6 @@ p{
           width: 85%;
           margin-left: 10%;
          }
+}
 
 </style>
