@@ -1,7 +1,7 @@
 <template>
 	<span class="container">
 		<div class="title">
-			<em><h2>Hey, I'm Alex</h2></em>
+			<em><h2>!Hey, I'm Alex</h2></em>
 		</div>
 		<div class="one"><em> I am a developer</em></div>
 		<div class="one"><em> I like computers... </em></div>
@@ -46,5 +46,21 @@ h2{
 	justify-content: center;
 	font-size: 3em;
 	color: #a6a28c;
+}
+
+@media screen and (max-width: 430px) {
+	.title{
+		display: flex;
+		justify-content: flex-start;
+		padding: 3em;
+		margin-left: 1.5em;
+		color: #FF6F33;
+	}
+	.one{
+		font-size: 2em;
+		text-align: center;
+		margin-right: 2em;
+	}
+
 }
 </style>
