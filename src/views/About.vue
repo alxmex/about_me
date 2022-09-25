@@ -1,8 +1,8 @@
 <template>
-	<div class="HEH">
+	<span>
 		<About_me> </About_me>
 		<Presence> </Presence>
-	</div>
+	</span>
 	
 </template>
 
@@ -20,9 +20,5 @@ export default Vue.extend({
   })
 </script>
 <style lang="scss" scoped>
-
-.HEH{
-	background-color: #141516;
-}
 
 </style>

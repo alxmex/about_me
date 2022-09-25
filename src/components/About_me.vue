@@ -37,8 +37,8 @@ export default Vue.extend({
 }
 
 p{
-color: #a6a28c;
-font-size:17px;
+	color: #a6a28c;
+	font-size:16px;
 }
 .aboutme{
 	/*border: 1px solid red;
