@@ -32,10 +32,9 @@ export default Vue.extend({
 </script>
 
 <style lang="scss" scoped>
-html{
+.v-app{
 	background-color: #141516;
 }
-
 
 .v-main{
 	background-color: #141516;
