@@ -21,7 +21,6 @@ export default {
 	background-color: #141516;
 	position: relative;
 	width: 100%;
-	height: 11em;
 }
 .footer{
 	flex-direction: column;
@@ -30,7 +29,6 @@ export default {
 	width: 50%;
 	margin: auto;
 	margin-top: .5em;
-	height: 5em;
 }
 
 p{
