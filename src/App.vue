@@ -32,17 +32,20 @@ export default Vue.extend({
 </script>
 
 <style lang="scss" scoped>
-*{
-	margin:0;
-	padding:0;
+html{
+	height: 100%;
+	background-color: #141516 !important;
+}
+
+.v-app{
+	height: 100%;
+	background-color: #141516 !important;
 }
 
 .v-main{
+	height: 100%;
 	background-color: #141516;
-    min-height: 100%; // add this rule
-
 }
-
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Zilla+Slab:wght@700&display=swap');
 </style>
