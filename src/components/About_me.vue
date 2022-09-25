@@ -53,6 +53,7 @@ p{
 @media screen and (max-width: 430px) {
 	.aboutme{
           width: 90%;
+          margin-left: 0%;
          }
 
 }
