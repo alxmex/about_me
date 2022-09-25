@@ -1,9 +1,20 @@
 <template>
 	<div class="aboutme">
 		<em class="header1"><h2> About me </h2></em>
-		<em> <p> Hey I am Alex! A Swedish based developer who enjoys creating fast, secure and robust software.</p></em>
-		
-		<em> <p> I have always believed in open-source, and community driver software development. I want to contribute in creating great software and making everyday easier, for everyone. I believe it's important to allow other developers to inspect your code, modify, and together improve it to the better.</p></em>
+		<em> <p> Hey I am Alex! Swedish based developer who 
+		enjoys creating fast, secure and robust software.</p></em>
+		<em> <p> I have always believed in open-source, 
+		and community driver software development. 
+		I want to contribute in creating great software 
+		and making everyday easier, for everyone. 
+		I believe it's important to allow other developers 
+		to inspect your code, modify, and together improve 
+		it to the better.</p></em>
+		<figure>
+		<v-img max-height="300" 
+		max-width="250" 
+		src="/images/me_restaurant_tapas.JPG"></v-img>
+		</figure>
 	</div>
 </template>
 
@@ -18,14 +29,6 @@ export default Vue.extend({
 </script>
 <style lang="scss" scoped>
 	
-.aboutme{
-	#border: 1px solid red;
-	line-height: 2;
-	width: 45%;
-	margin-top: 1em;
-	margin-left: 25%;
-	font-family: 'Fira Sans', sans-serif;
-}
 
 .header1{
 	color: #FF6F33;
@@ -34,6 +37,15 @@ export default Vue.extend({
 p{
 color: #a6a28c;
 font-size:17px;
+}
+.aboutme{
+	/*border: 1px solid red;
+	*/
+	line-height: 2; 
+	width: 45%;
+	margin-top: 1em;
+	margin-left: 25%;
+	font-family: 'Fira Sans', sans-serif;
 }
 
 
