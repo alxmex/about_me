@@ -40,11 +40,15 @@ html{
 .v-app{
 	height: 100%;
 	background-color: #141516 !important;
+	overflow-x: hidden;
+	overflow-y: hidden;
 }
 
 .v-main{
 	height: 100%;
 	background-color: #141516;
+	overflow-x: hidden;
+	overflow-y: hidden;
 }
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Zilla+Slab:wght@700&display=swap');

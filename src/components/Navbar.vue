@@ -15,11 +15,7 @@
 			<router-link to="/about"><v-btn color="rgb(67,63,63)">About</v-btn></router-link>
 			<router-link to="/"><v-btn color="rgb(67,63,63)">Contact</v-btn></router-link>
 		</Slide>
-
-
-
 	</span>
-
 </template>
 
 <script>
