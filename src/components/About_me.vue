@@ -31,6 +31,8 @@ export default Vue.extend({
 	
 
 .header1{
+	font-size: 1.2em;
+	font-family: 'Zilla Slab', serif;
 	color: #FF6F33;
 }
 
@@ -45,7 +47,7 @@ font-size:17px;
 	width: 45%;
 	margin-top: 1em;
 	margin-left: 25%;
-	font-family: 'Fira Sans', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 
 

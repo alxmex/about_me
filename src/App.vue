@@ -30,8 +30,8 @@ export default Vue.extend({
 
 <style lang="scss" scoped>
 .v-main{
-background-color: #141516;
+	background-color: #141516;
 }
-@import url("https://fonts.googleapis.com/css2?family=Fira+Sans");
-
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Zilla+Slab:wght@700&display=swap');
 </style>

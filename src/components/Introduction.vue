@@ -30,6 +30,10 @@ export default {
 	top: 6em;
 	flex-direction: column;
 }
+h2{
+	font-family: 'Zilla Slab', serif;
+	font-size: 2em;
+}
 .title{
 	display: flex;
 	justify-content: center;
@@ -40,7 +44,6 @@ export default {
 	line-height: 2;
 	text-align: center;
 	justify-content: center;
-	font-family: 'Fira Sans', sans-serif;
 	font-size: 3em;
 	color: #a6a28c;
 
