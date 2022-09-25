@@ -4,6 +4,7 @@
 		<ul>
 			<li> <a href="https://github.com/alexandermehks">Github</a> </li>
 			<li> <a href="https://stackoverflow.com/users/14231200/iiamalex">Stackoverflow</a> </li>
+			<li> <a href="https://se.linkedin.com/in/alexander-mehks-09067797">Linkedin</a> </li>
 		</ul>
 	</div>
 </template>
@@ -24,6 +25,7 @@ ul{
 	color: #a6a28c;
 	font-family: 'Zilla Slab', serif;
 	font-size: 1.3em;
+	padding: .5em;
 }
 
 .header1{

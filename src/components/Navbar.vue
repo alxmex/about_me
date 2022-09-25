@@ -31,7 +31,7 @@ export default {
 #tho{
 	display: flex;
 	margin-left: 10em;
-	margin-top: 4em;
+	margin-top: 2em;
 	margin-right: 5em;
 	width: auto;
 	justify-content: center;

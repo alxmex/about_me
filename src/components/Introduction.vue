@@ -37,7 +37,7 @@ h2{
 .title{
 	display: flex;
 	justify-content: center;
-	padding: 1em;
+	padding: 3em;
 	color: #FF6F33;
 }
 .one{
@@ -46,9 +46,5 @@ h2{
 	justify-content: center;
 	font-size: 3em;
 	color: #a6a28c;
-
 }
-
-
-
 </style>
