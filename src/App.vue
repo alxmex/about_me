@@ -32,9 +32,9 @@ export default Vue.extend({
 </script>
 
 <style lang="scss" scoped>
-body, html{
-	background-color: #141516;
-
+*{
+	margin:0;
+	padding:0;
 }
 
 .v-main{
