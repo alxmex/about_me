@@ -1,7 +1,6 @@
 <template>
 	<div class="section">
 		<em class="header1"><h2>Links</h2></em>
-		<p> A short section with some links </p>
 		<ul>
 			<li> <a href="https://github.com/alexandermehks">Github</a> </li>
 			<li> <a href="https://stackoverflow.com/users/14231200/iiamalex">Stackoverflow</a> </li>
