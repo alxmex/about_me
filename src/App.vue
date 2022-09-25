@@ -35,8 +35,7 @@ export default Vue.extend({
 
 .v-main{
 	background-color: #141516;
-	width: 100%;
-    min-height: 200vh; // add this rule
+    min-height: 100%; // add this rule
 	overflow: auto;
 }
 

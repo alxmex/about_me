@@ -1,7 +1,7 @@
 <template>
 	<span class="container">
 		<div class="title">
-			<em><h2>!Hey, I'm Alex</h2></em>
+			<em><h2>Hey, I'm Alex</h2></em>
 		</div>
 		<div class="one"><em> I am a developer</em></div>
 		<div class="one"><em> I like computers... </em></div>
@@ -30,19 +30,19 @@ export default {
 }
 h2{
 	font-family: 'Zilla Slab', serif;
-	font-size: 2em;
+	font-size: 3em;
 }
 .title{
 	display: flex;
 	justify-content: center;
-	padding: 3em;
+	padding: 4em;
 	color: #FF6F33;
 }
 .one{
 	line-height: 2;
 	text-align: center;
 	justify-content: center;
-	font-size: 3em;
+	font-size: 4em;
 	color: #a6a28c;
 }
 
@@ -57,6 +57,5 @@ h2{
 		font-size: 2em;
 		text-align: center;
 	}
-
 }
 </style>

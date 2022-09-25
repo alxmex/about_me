@@ -17,18 +17,11 @@ export default {
 <style lang="scss" scoped>
 .container{
 	background-color: #141516;
-	margin-top: -15%;
 
 }
 .footer{
-	display: flex;
-	position: relative;
 	width: 50%;
-	margin: auto;
-	margin-top: 3em;
-	margin-bottom: 5em;
-	flex-direction: column;
-	align-items: center;
+	padding: 1em;
 }
 
 p{
