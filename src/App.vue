@@ -36,7 +36,7 @@ export default Vue.extend({
 .v-main{
 	width: 100%;
 	background-color: #141516;
-	overflow-x: hidden;
+	overflow-x: auto;
 	overflow-y: hidden;
         
 }
