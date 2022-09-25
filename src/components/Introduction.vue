@@ -47,9 +47,10 @@ h2{
 }
 
 @media screen and (max-width: 430px) {
+	h2{
+		font-size: 2em;
+	}
 	.title{
-		display: flex;
-		justify-content: flex-start;
 		padding: 3em;
 		color: #FF6F33;
 	}

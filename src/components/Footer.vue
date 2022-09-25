@@ -20,7 +20,6 @@ export default {
 
 }
 .footer{
-	width: 50%;
 	padding: 1em;
 }
 
