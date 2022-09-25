@@ -53,13 +53,12 @@ h2{
 		display: flex;
 		justify-content: flex-start;
 		padding: 3em;
-		margin-left: 1.5em;
 		color: #FF6F33;
 	}
 	.one{
 		font-size: 2em;
 		text-align: center;
-		margin-right: 2em;
+		margin-right: 3em;
 	}
 
 }
