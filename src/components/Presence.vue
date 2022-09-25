@@ -49,4 +49,10 @@ p{
 	font-family: 'Lato', sans-serif;
 }
 
+@media screen and (max-width: 430px) {
+	.section{
+          width: 85%;
+          margin-left: 10%;
+         }
+
 </style>
