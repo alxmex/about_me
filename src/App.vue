@@ -32,11 +32,15 @@ export default Vue.extend({
 </script>
 
 <style lang="scss" scoped>
+body, html{
+	background-color: #141516;
+
+}
 
 .v-main{
 	background-color: #141516;
     min-height: 100%; // add this rule
-	overflow: auto;
+
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
