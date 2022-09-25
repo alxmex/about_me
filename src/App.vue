@@ -38,7 +38,7 @@ export default Vue.extend({
 	background-color: #141516;
 	overflow-x: hidden;
 	overflow-y: hidden;
-        z-index: 9999;
+        z-index: -1;
 }
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Zilla+Slab:wght@700&display=swap');
