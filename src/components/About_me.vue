@@ -4,7 +4,7 @@
 		<em> <p> Hey I am Alex! Swedish based developer who 
 		enjoys creating fast, secure and robust software.</p></em>
 		<em> <p> I have always believed in open-source, 
-		and community driver software development. 
+		and community driven software development. 
 		I want to contribute in creating great software 
 		and making everyday easier, for everyone. 
 		I believe it's important to allow other developers 
