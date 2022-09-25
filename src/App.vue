@@ -35,10 +35,9 @@ export default Vue.extend({
 
 .v-main{
 	width: 100;
-        height: 500vh;
 	background-color: #141516;
 	overflow-x: hidden;
-	overflow-y: visible;
+	overflow-y: auto;
         
 }
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
