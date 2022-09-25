@@ -4,7 +4,6 @@
 			<p>Created by Alexander Mehks</p>
 			<p>Copyright © Alexander Mehks 2022.</p>
 		</div>
-			
 	</div>
 </template>
 
@@ -16,20 +15,20 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss" scoped>
-
 .container{
 	background-color: #141516;
-	position: relative;
-	width: 100%;
+	margin-top: -15%;
+
 }
 .footer{
-	flex-direction: column;
 	display: flex;
 	position: relative;
 	width: 50%;
 	margin: auto;
-	margin-top: .5em;
+	margin-top: 3em;
 	margin-bottom: 5em;
+	flex-direction: column;
+	align-items: center;
 }
 
 p{

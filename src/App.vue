@@ -36,6 +36,7 @@ export default Vue.extend({
 
 .v-main{
 	background-color: #141516;
+	height: 100%;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
