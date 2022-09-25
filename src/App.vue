@@ -38,7 +38,7 @@ export default Vue.extend({
 
 .v-main{
 	background-color: #141516;
-	position: relative;
+	position: absolute;
 	width: 100%;
     min-height: 100vh; // add this rule
 	background-size: contain;
