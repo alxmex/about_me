@@ -36,11 +36,10 @@ export default Vue.extend({
 
 .v-main{
 	background-color: #141516;
-	height: 100%;
 	padding: 0;
     margin: 0;
 	width: 100%;
-    min-height: 100vh;
+    min-height: 100vh; // add this rule
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
