@@ -34,7 +34,8 @@ export default Vue.extend({
 <style lang="scss" scoped>
 
 .v-main{
-	width: 100%;
+	
+        height: 100%;
 	background-color: #141516;
 	overflow-x: hidden;
 	overflow-y: visible;
