@@ -51,7 +51,7 @@ h2{
 		font-size: 2em;
 	}
 	.title{
-		padding: 3em;
+		padding: 1em;
 		color: #FF6F33;
 	}
 	.one{
