@@ -38,6 +38,8 @@ export default Vue.extend({
 	background-color: #141516;
 	overflow-x: hidden;
 	overflow-y: auto;
+        padding: 0px;
+        margin: 0px;
         
 }
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
