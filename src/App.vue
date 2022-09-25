@@ -42,7 +42,8 @@ background-color: #141516;
 .v-main{
 	width: 100;
 	background-color: #141516;
-	overflow-x: hidden;
+        background-size: cover;
+        overflow-x: hidden;
 	overflow-y: auto;
         
         
