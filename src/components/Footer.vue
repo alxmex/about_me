@@ -11,9 +11,6 @@
 <script>
 export default {
   name: 'footer-m',
-  props: { 
-
-  }
 }
 </script>
 
@@ -24,7 +21,7 @@ export default {
 	background-color: #141516;
 	position: relative;
 	width: 100%;
-	height: 10em;
+	height: 11em;
 }
 .footer{
 	flex-direction: column;
@@ -37,7 +34,6 @@ export default {
 }
 
 p{
-	margin: auto;
 	color: #a6a28c;
 }
 
