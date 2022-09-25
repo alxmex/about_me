@@ -38,10 +38,9 @@ export default Vue.extend({
 
 .v-main{
 	background-color: #141516;
-	position: absolute;
 	width: 100%;
     min-height: 100vh; // add this rule
-	background-size: contain;
+	overflow: auto;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
