@@ -69,6 +69,9 @@ Slide{
 	}
 	#hamburger{
 		display: inline;
+		position: static;
+		margin-left: 42em;
+		padding: 2em;
 	}
 }
 
