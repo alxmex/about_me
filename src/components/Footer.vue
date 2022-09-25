@@ -29,6 +29,7 @@ export default {
 	width: 50%;
 	margin: auto;
 	margin-top: .5em;
+	margin-bottom: 5em;
 }
 
 p{
