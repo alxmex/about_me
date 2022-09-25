@@ -50,6 +50,12 @@ p{
 	font-family: 'Lato', sans-serif;
 }
 
+@media screen and (max-width: 430px) {
+	.aboutme{
+          width: 90%;
+         }
+
+}
 
 
 </style>
