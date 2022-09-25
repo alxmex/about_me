@@ -32,14 +32,16 @@ export default Vue.extend({
 </script>
 
 <style lang="scss" scoped>
+html{
+	background-color: #141516;
+}
 
 
 .v-main{
 	background-color: #141516;
-	padding: 0;
-    margin: 0;
 	width: 100%;
     min-height: 100vh; // add this rule
+	background-size: contain;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
