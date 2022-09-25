@@ -34,13 +34,14 @@ export default Vue.extend({
 <style lang="scss" scoped>
 .v-app{
 	background-color: #141516;
-	width: 100%;
-    min-height: 100vh; // add this rule
-	background-size: contain;
 }
 
 .v-main{
 	background-color: #141516;
+	position: relative;
+	width: 100%;
+    min-height: 100vh; // add this rule
+	background-size: contain;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
