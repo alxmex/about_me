@@ -32,14 +32,11 @@ export default Vue.extend({
 </script>
 
 <style lang="scss" scoped>
-.v-app{
-	background-color: #141516;
-}
 
 .v-main{
 	background-color: #141516;
 	width: 100%;
-    min-height: 100vh; // add this rule
+    min-height: 200vh; // add this rule
 	overflow: auto;
 }
 
