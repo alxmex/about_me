@@ -22,10 +22,8 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss" scoped>
 .container{
-	display: flex;
 	position: relative;
 	margin: auto;
-	height: 20em;
 	width: 30em;
 	top: 6em;
 	flex-direction: column;
@@ -58,7 +56,6 @@ h2{
 	.one{
 		font-size: 2em;
 		text-align: center;
-		margin-right: 3em;
 	}
 
 }
