@@ -1,8 +1,8 @@
 <template>
-	<span>
+	<div>
 		<About_me> </About_me>
 		<Presence> </Presence>
-	</span>
+	</div>
 	
 </template>
 
