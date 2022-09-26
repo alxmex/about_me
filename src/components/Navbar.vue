@@ -59,6 +59,10 @@ Slide{
 	background-color: red;
 }
 
+a{
+	text-decoration: none;
+}
+
 @media screen and (max-width: 753px) {
 	#tho{
 		display: none;
