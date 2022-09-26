@@ -33,11 +33,6 @@ export default Vue.extend({
 
 <style lang="scss" scoped>
 
-.v-html{
-
-background-color: #141516;
-
-}
 
 .v-main{
 	width: 100;
