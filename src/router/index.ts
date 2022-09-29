@@ -3,6 +3,7 @@ import VueRouter, { RouteConfig } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import Index from '../views/Index.vue'
 import About from '../views/About.vue'
+import Contact from '../views/Contact.vue'
 
 Vue.use(VueRouter)
 
@@ -16,7 +17,11 @@ const routes: Array<RouteConfig> = [
 	path: '/about',
 	name: 'about',
 	component: About
-	
+  },
+  {
+  path:'/contact',
+  name: 'concact',
+  component: Contact
   },
 ]
 

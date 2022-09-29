@@ -2,18 +2,18 @@
 	<span>
 		<div id="tho">
 			<router-link to="/"><v-btn color="rgb(67,63,63)">Home</v-btn></router-link>
-			<router-link to="/"><v-btn color="rgb(67,63,63)">Projects</v-btn></router-link>
-			<router-link to="/"><v-btn color="rgb(67,63,63)">Blog</v-btn></router-link>
+			<!--<router-link to="/"><v-btn color="rgb(67,63,63)">Projects</v-btn></router-link>-->
+			<!--<router-link to="/"><v-btn color="rgb(67,63,63)">Blog</v-btn></router-link>-->
 			<router-link to="/about"><v-btn color="rgb(67,63,63)">About</v-btn></router-link>
-			<router-link to="/"><v-btn color="rgb(67,63,63)">Contact</v-btn></router-link>
+			<router-link to="/contact"><v-btn color="rgb(67,63,63)">Contact</v-btn></router-link>
 		</div>
 	
 		<Slide id="hamburger" right :closeOnNavigation="true">
 			<router-link to="/"><v-btn color="rgb(67,63,63)">Home</v-btn></router-link>
-			<router-link to="/"><v-btn color="rgb(67,63,63)">Projects</v-btn></router-link>
-			<router-link to="/"><v-btn color="rgb(67,63,63)">Blog</v-btn></router-link>
+			<!--<router-link to="/"><v-btn color="rgb(67,63,63)">Projects</v-btn></router-link>-->
+			<!--<router-link to="/"><v-btn color="rgb(67,63,63)">Blog</v-btn></router-link>-->
 			<router-link to="/about"><v-btn color="rgb(67,63,63)">About</v-btn></router-link>
-			<router-link to="/"><v-btn color="rgb(67,63,63)">Contact</v-btn></router-link>
+			<router-link to="/contact"><v-btn color="rgb(67,63,63)">Contact</v-btn></router-link>
 		</Slide>
 	</span>
 </template>
