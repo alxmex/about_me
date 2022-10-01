@@ -1,6 +1,6 @@
 <template>
-	<div class="container">
-		<div class="footer">
+	<div flat class="container">
+		<div flat class="footer">
 			<p>Created by Alexander Mehks</p>
 			<p>Copyright © Alexander Mehks 2022.</p>
 		</div>
