@@ -1,6 +1,6 @@
 <template>
-	<div flat class="container">
-		<div flat class="footer">
+	<div class="container">
+		<div class="footer">
 			<p>Created by Alexander Mehks</p>
 			<p>Copyright © Alexander Mehks 2022.</p>
 		</div>
@@ -17,6 +17,7 @@ export default {
 <style lang="scss" scoped>
 .container{
 	background-color: #141516;
+	height:20px;
 
 }
 .footer{
