@@ -1,7 +1,9 @@
 <template>
 	<div class="section">
 		<em class="header1"><h2>Contact</h2></em>
-		<p> If you wish to contact me you can use one of the methods below. I will get back to you as soon as possible. </p>
+		<p> Please use one of the methods below when contacting me, and please do contact me! I'm always up for a chat. I will get back to you as soon as possible. </p>
+		<p> // Alex </p>
+
 		<ul>
 			<li> Email: <a href="mailto:erks1@protonmail.com"><span> erks1@protonmail.com  </span> </a></li>
 			<li> Telegram: <a href="https://t.me/alneoo"><span> @alneoo </span> </a></li>
