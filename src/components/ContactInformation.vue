@@ -5,6 +5,7 @@
 		<ul>
 			<li> Email: <a href="mailto:erks1@protonmail.com"><span> erks1@protonmail.com  </span> </a></li>
 			<li> Telegram: <a href="https://t.me/alneoo"><span> @alneoo </span> </a></li>
+			<li> PGP: <a href="key.gpg"><span> Download Key </span> </a></li>
 		</ul>
 	</div>
 </template>
