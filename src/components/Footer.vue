@@ -1,7 +1,7 @@
 <template>
 	<div class="container">
 		<div class="footer">
-			<p>Created by Alexander Mehks</p>
+			<p>Created byy Alexander Mehks</p>
 			<p>Copyright © Alexander Mehks 2022.</p>
 		</div>
 	</div>
